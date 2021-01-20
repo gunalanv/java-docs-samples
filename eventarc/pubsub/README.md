@@ -1,4 +1,4 @@
-# Cloud Eventarc - Pub/Sub tutorial
+# Cloud Eventarc - Pub/Sub tutorial from Guna
 
 This sample shows how to create a service that processes Pub/Sub messages.
 
